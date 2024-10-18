@@ -1,2 +1,3 @@
 # estadisticas_jinetes
-Ciencia de Datos,royecto 4
+Ciencia de Datos
+Proyecto 4 - Grupo 1
